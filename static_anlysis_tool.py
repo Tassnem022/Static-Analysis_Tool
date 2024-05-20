@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import filedialog, scrolledtext, ttk
 import requests
 
-VIRUSTOTAL_API_KEY = 'ae9689ea5abfe56e367ea254bf130b78c7ce38ba0eee5e70e069adf8590f1505'
+VIRUSTOTAL_API_KEY = 'YOUR_API'
 
 def calculate_hashes(file_path):
     hashes = {
