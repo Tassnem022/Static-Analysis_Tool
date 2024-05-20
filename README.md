@@ -1,5 +1,5 @@
-# Static-Analysis_Tool
+# Static-Analysis-Tool
 A tool that analysis PE file format and online Scanning for malware
-#cyber security
-#Malware
+# cyber security
+# Malware
 
